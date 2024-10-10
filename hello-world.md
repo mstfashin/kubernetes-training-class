@@ -7,7 +7,15 @@ Makdown taglerini deneyimleyelim.
 ##### Merhaba Dünya
 ###### Merhaba Dünya
 ---
-Aşağıda temel Markdown komutlarını ve açıklamalarını tablo formatında bulabilirsiniz:
+# En Sık Kullanılan Markdown Komutları
+
+**Aşağıda temel Markdown komutlarını ve açıklamalarını tablo formatında bulabilirsiniz**
+
+*italic*
+
+***bold italic***
+
+~~Üzeri Çizili Örnek~~
 
 | Komut               | Açıklama                                                | Örnek Kullanım                                |
 |---------------------|---------------------------------------------------------|-----------------------------------------------|
