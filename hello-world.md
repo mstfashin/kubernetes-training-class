@@ -6,8 +6,8 @@ Makdown taglerini deneyimleyelim.
 #### Merhaba Dünya
 ##### Merhaba Dünya
 ###### Merhaba Dünya
-
-Elbette! Aşağıda temel Markdown komutlarını ve açıklamalarını tablo formatında bulabilirsiniz:
+---
+Aşağıda temel Markdown komutlarını ve açıklamalarını tablo formatında bulabilirsiniz:
 
 | Komut               | Açıklama                                                | Örnek Kullanım                                |
 |---------------------|---------------------------------------------------------|-----------------------------------------------|
