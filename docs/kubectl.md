@@ -117,3 +117,14 @@ kubectl get namespaces
 ### Usage
 
 To use these commands effectively, ensure you have `kubectl` installed and configured to communicate with your Kubernetes cluster. Always check the current context and namespace to avoid any confusion while managing your resources.
+
+---
+
+
+```bash
+kubectl get pods -o wide -n kube-system
+```
+
+![alt](./images/get-pods-wide.png)
+
+![alt](./images/get-pods-wide-all-namespaces.png)
