@@ -69,3 +69,12 @@
    minikube config view
    ```
    ![Minikube Config View](./images/minikube-config-view.png)
+
+
+minikube config set memory 4096
+
+minikube config set cpus 2
+
+minikube start --driver=docker
+
+minikube config view
