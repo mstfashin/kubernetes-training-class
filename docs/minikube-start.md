@@ -61,3 +61,11 @@
    kubectl get nodes
    ```
 
+   ![Kubectl get nodes](./images/kubectl-get-nodes.png)
+
+8. **minikube config view**
+
+   ```bash
+   minikube config view
+   ```
+   ![Minikube Config View](./images/minikube-config-view.png)
