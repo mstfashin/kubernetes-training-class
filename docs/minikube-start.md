@@ -42,3 +42,22 @@
    ```bash
    kubectl get nodes
    ```
+6. **Minikube Profile**
+
+   ```bash
+   minikube profie
+   ```
+
+   Profillerin listesini almak için aşağıdaki komut çalıştırılır.
+
+   ```bash
+   minikube profie list
+   ```
+   ![Minikube Profie](./images/minikube-profie.png)
+
+7. **Kubectl get nodes**
+
+   ```bash
+   kubectl get nodes
+   ```
+
